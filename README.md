@@ -54,7 +54,7 @@ A secure backend powering academic content for students and doctors with AI-gene
 ---
 
 ## 📈 GitHub Stats  
-> [Basma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basma-skaik&show_icons=true&theme=default)
+![Basma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basma-skaik&show_icons=true&theme=default)
 
 ---
 
