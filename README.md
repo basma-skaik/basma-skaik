@@ -59,5 +59,5 @@ A secure backend powering academic content for students and doctors with AI-gene
 ---
 
 ## 📫 Connect with Me  
-🔗 *LinkedIn:* linkedin.com/in/basma-skaik  
+🔗 *LinkedIn:* [linkedin.com/in/basma-skaik](https://www.linkedin.com/in/basma-skaik)
 📧 *Email:* basmahskaik@gmail.com
