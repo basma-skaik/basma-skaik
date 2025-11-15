@@ -35,7 +35,7 @@ An intelligent Node.js package that scans Express.js code and generates Postman 
 - Published as an open-source npm package  
 
 *Tech Stack:* Node.js, Express.js, NLP, Static Code Analysis  
-📁 NPM Link:![link](https://www.npmjs.com/package/postmanify-express)
+📁 ![NPM Link](https://www.npmjs.com/package/postmanify-express)
 
 ---
 
@@ -49,7 +49,7 @@ A secure backend powering academic content for students and doctors with AI-gene
 - Cloud deployment using AWS  
 
 *Tech Stack:* Node.js, AWS, Redis, OpenAI API  
-📁 Repository:![link](https://github.com/basma-skaik/Simplify-Backend.git)
+📁 ![Repository](https://github.com/basma-skaik/Simplify-Backend.git)
 
 ---
 
